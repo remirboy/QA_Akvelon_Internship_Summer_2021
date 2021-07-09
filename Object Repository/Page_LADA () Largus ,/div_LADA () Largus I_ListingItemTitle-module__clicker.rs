@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LADA () Largus I_ListingItemTitle-module__clicker</name>
+   <tag></tag>
+   <elementGuidId>266f2381-6b22-4e6e-b21b-19dd844a541b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iHOeFVpk1amyMZOkatDNy']/div[8]/div[2]/div/div[2]/div/div/div/h3/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ListingItemTitle-module__clicker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ListingItemTitle-module__clicker</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iHOeFVpk1amyMZOkatDNy&quot;)/div[@class=&quot;iPOeFVpk1agKLf_Y-module__container iPOeFVpk1agKLf_ZDvC5llT0T8sSsvoGg&quot;]/div[@class=&quot;ListingItem-module__container iPOeFVpk1agKLf_ZDvC5llT0T8sSsvoGgriTNzOsCjw&quot;]/div[@class=&quot;ListingItem-module__main&quot;]/div[@class=&quot;ListingItem-module__description&quot;]/div[@class=&quot;ListingItem-module__column ListingItem-module__columnLeft&quot;]/div[@class=&quot;ListingItem-module__columnRowFlex&quot;]/div[@class=&quot;ListingItem-module__columnCellSummary&quot;]/h3[@class=&quot;ListingItemTitle-module__container ListingItem-module__title&quot;]/a[@class=&quot;Link Link_hovered ListingItemTitle-module__link&quot;]/div[1]/div[@class=&quot;ListingItemTitle-module__clicker&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iHOeFVpk1amyMZOkatDNy']/div[8]/div[2]/div/div[2]/div/div/div/h3/a/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

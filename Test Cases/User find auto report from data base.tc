@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User find auto report from data base</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de5eccf5-8529-41ca-9985-a0e75ae66d37</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91743f8b-e622-4b34-a3bd-bc81d4e0c88c</id>
+      <masked>false</masked>
+      <name>car_number</name>
+   </variable>
+</TestCaseEntity>
